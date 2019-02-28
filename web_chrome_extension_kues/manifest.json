@@ -1,0 +1,13 @@
+{
+  "name": "EZET SURVEYNYA ANJIR",
+  "description": "EZET GOBLOG",
+  "version": "0.1",
+  "icons" : {"128":"image.png"},
+  "incognito": "split",
+  "manifest_version": 2,
+  "browser_action" :{
+    "default_icon":"image.png",
+    "default_popup":"popup.html"
+  },
+  "permissions":["activeTab"]
+}
